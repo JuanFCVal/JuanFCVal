@@ -3,7 +3,7 @@
 ###### Mobile developer
 I'm passionate of learning. At the moment I'm working with Flutter and Ionic for developing multi platform applications.
 
-Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQ
+Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQL
 
 - 🔭 I’m currently working at PuntoPymes as mobile developer. 
 - 🌱 I’m currently learning Angular & UX desing. 
