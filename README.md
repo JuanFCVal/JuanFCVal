@@ -8,7 +8,7 @@ Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQL
 - 🔭 I’m currently working at PuntoPymes as mobile developer. 
 - 🌱 I’m currently learning Angular & UX desing. 
 
-<div style="color: black">
+<div style="color: black" class="container">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JuanFCVAL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juanfcval/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juanfceval/)  
 </div>
 
