@@ -5,7 +5,7 @@ Passionate of learning. At the moment I'm working with Flutter and Ionic for dev
 
 Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQ
 
-- 🔭 I’m currently working on I’m currently working at PuntoPymes as mobile developer. 
+- 🔭 I’m currently working at PuntoPymes as mobile developer. 
 - 🌱 I’m currently learning Angular & UX desing. 
 
 
