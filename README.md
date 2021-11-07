@@ -1,7 +1,7 @@
 ### Hi there 👋,  glad to see you.
 #### Juan Francisco Cevallos Valdivieso
 ###### Mobile developer
-Passionate of learning. At the moment I'm working with Flutter and Ionic for developing multiplatform aplications.
+I'm passionate of learning. At the moment I'm working with Flutter and Ionic for developing multi platform applications.
 
 Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQ
 
