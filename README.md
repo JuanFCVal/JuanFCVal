@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hi there 👋,  glad to see you.
+#### Juan Francisco Cevallos Valdivieso
+###### Mobile developer
+Passionate of learning. At the moment I'm working with Flutter and Ionic for developing multiplatform aplications.
 
-I'm Juan Francisco, and I work as mobile developer. I'm passionate of learning. At the moment I'm working with Flutter and Ionic for developing multiplatform aplications. 
+Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQ
 
-- 🔭 I’m currently working on PuntoPymes as mobile developer.
-- 🌱 I’m in my last year of Computer Systems and Computing Engineering at Universidad Técnica Particular de Loja
-- ⚡ Fun fact: Still thinking about this point.
+- 🔭 I’m currently working on I’m currently working at PuntoPymes as mobile developer. 
+- 🌱 I’m currently learning Angular & UX desing. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFCVal&count_private=true&show_icons=true&theme=radical)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JuanFCVAL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juanfcval/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juanfceval/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFCVAL&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JuanFCVAL)  
+
+![Profile views](https://gpvc.arturio.dev/JuanFCVAL)  
