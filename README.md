@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/JuanFCVal"><img src="https://github.com/JuanFCVal/JuanFCVal/blob/main/devcard.svg" width="200" alt="Dev Card"/></a>
+
 ### Hi there 👋,  glad to see you.
 #### Juan Francisco Cevallos Valdivieso
 ###### Mobile developer
@@ -22,3 +22,4 @@ Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQL
 
 
 
+<a href="https://app.daily.dev/JuanFCVal"><img src="https://github.com/JuanFCVal/JuanFCVal/blob/main/devcard.svg" width="200" alt="Dev Card"/></a>
