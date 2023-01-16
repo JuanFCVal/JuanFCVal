@@ -6,7 +6,7 @@ I'm passionate of learning. At the moment I'm working with Flutter and Ionic for
 
 Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQL
 
-- 🔭 I’m currently working at PuntoPymes as mobile developer. 
+- 🔭 I’m currently working at Tinkin as Software Developer 
 
 
 
