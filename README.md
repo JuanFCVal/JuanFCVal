@@ -9,7 +9,9 @@ Skills: ANGULAR / JAVASCRIPT/ FLUTTER / DART / FIGMA / PYTHON / MYSQL
 - 🔭 I’m currently working at Tinkin as Software Developer 
 
 ![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.svg)
+
+
+![Stats](/metrics.plugin.isocalendar.svg)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFCVAL&show_icons=true&count_private=true)  
