@@ -21,4 +21,6 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           plugin_isocalendar: yes
           config_timezone: America/Guayaquil
+          plugin_languages: yes
+          plugin_languages_indepth: yes
           config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
