@@ -18,5 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
+          plugin_isocalendar: true
           config_timezone: America/Guayaquil
           config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
