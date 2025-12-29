@@ -1,6 +1,6 @@
 # I'm Juan Francisco Cevallos Valdivieso
 
-Welcome to my Githubs
+Welcome to my Github
 
 #### Software Engineer | Full Stack Developer
 
